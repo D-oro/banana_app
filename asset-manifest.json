@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/banana_app/static/css/main.073c9b0a.css",
+    "main.js": "/banana_app/static/js/main.279ef4b1.js",
+    "static/js/787.f940ebc9.chunk.js": "/banana_app/static/js/787.f940ebc9.chunk.js",
+    "static/media/logo.svg": "/banana_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/banana_app/index.html",
+    "main.073c9b0a.css.map": "/banana_app/static/css/main.073c9b0a.css.map",
+    "main.279ef4b1.js.map": "/banana_app/static/js/main.279ef4b1.js.map",
+    "787.f940ebc9.chunk.js.map": "/banana_app/static/js/787.f940ebc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.279ef4b1.js"
+  ]
+}
